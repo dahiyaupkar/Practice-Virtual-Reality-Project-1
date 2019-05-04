@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Upkar_Dahiya_Part1.unity
+  isLoaded: 1
+  isActive: 1
